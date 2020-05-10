@@ -1,6 +1,6 @@
 Notes for week one
 
-Terms 
+Terms:
 
   terminal 
   
@@ -16,12 +16,12 @@ Terms
   
   Gephi
 
-Commands 
+Commands: 
 
 command + space to open spotlight search 
 enter 'terminal' to open terminal 
 
-Errors 
+Errors: 
 
 git commit wouldn't work in terminal because I didn't have appropriate software. 
 
