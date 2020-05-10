@@ -3,11 +3,17 @@ Notes for week one
 Terms 
 
   terminal 
+  
   command line 
+  
   Git 
-  pull request 
+  
+  pull request
+  
   repository
+  
   metadata
+  
   Gephi
 
 Commands 
